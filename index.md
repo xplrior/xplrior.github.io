@@ -4,14 +4,8 @@ layout: default
 
 # About
 
-My name is Lukas, and I am your CICD, Support, and Documentation guy. With CICD, I like to make things simple, easy, and user-friendly. I also support others with what I know and enjoy learning new things that interest me. Best of all, I like to document my findings to help others understand what is going on. You can find out more on my [LinkedIn](https://www.linkedin.com/in/lukasgoodfellow/).
+I am an IT Professional working in the CI/CD space related to Containers, Kubernetes, and GitOps. I help make things simple, easy, and user-friendly for my customers and colleagues. I mainly do this by documenting my findings, procedures, and tips so others can understand what's going on and save time. I am also known as the documentation guy on my team because I have revamped and contributed to internal and external documentation.
 
-That is the gist of my professional career, but I am usually not that technical when off the clock. I like to travel, experience new things, and do photography. I tend not to be in front of a screen that often outside of work. I have a TV, and that may get used once every other week.
+Currently, I am self-learning to be a developer. Starting with making basic scripts, I am helping improve my team's automation by taking in feedback from manual processes and figuring out how to automate them. Next, I want to make an application based on the Apple ecosystem.
 
-## Personal Goals 2021
-
-This year I have a few personal goals that I wanted to complete.
-
-- Become credit card debt free (6k to go)
-- Read 6 books (3 more to go)
-- Improve my mobile photgraphy (Photo posts Comming Soon)
+That is the gist of my professional career and future goals, but I am usually not that technical when off the clock. I prefer not to look at a screen after work and get out. I have a TV, but most of the time, it is never on unless others are over. So what do I do after work, if not in front of a screen? Well, I like to travel and explore new places, go hiking, visit a new national/state park, try a new restaurant, or go to an everyday spot. A hobby I got into is iPhone photography. I am using Instagram as a way I can "document" my experiences and travels. Also, a way to show my skills with taking photos.
