@@ -6,6 +6,14 @@ layout: default
 
 Personal notes I have written down and starting to add here. Getting into a habbit of writing my notes down.
 
+## Codefresh Clasic
+
+- [Hybrid Installation](codefreshClassic/hybridInstall.md)
+- [Pipelines Associated with a Git Integration](codefreshClassic/pipelineGitIntegration.md)
+- [Pipelines Associated with a Runtime Environment](codefreshClassic/pipelineRE.md)
+- [Pipelines Associated with a Shared Configuration](codefreshClassic/pipelineSharedConfig.md)
+- [Pipelines Triggers Associated with a Git Repository](codefreshClassic/pipelineTriggerGitRepo.md)
+
 ## Docker
 
 - [Docker Commands](docker/commands.md)
