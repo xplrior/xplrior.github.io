@@ -13,6 +13,7 @@ Personal notes I have written down and starting to add here. Getting into a habb
 - [Pipelines Associated with a Runtime Environment](codefreshClassic/pipelineRE.md)
 - [Pipelines Associated with a Shared Configuration](codefreshClassic/pipelineSharedConfig.md)
 - [Pipelines Triggers Associated with a Git Repository](codefreshClassic/pipelineTriggerGitRepo.md)
+- [Terminate All Builds for a Single Pipeline](codefreshClassic/terminateBuildPerPipeline.md)
 
 ## Docker
 
