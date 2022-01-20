@@ -6,7 +6,7 @@ layout: default
 
 Personal notes I have written down and starting to add here. Getting into a habbit of writing my notes down.
 
-## Codefresh Clasic
+## Codefresh Classic
 
 - [Hybrid Installation](codefreshClassic/hybridInstall.md)
 - [Pipelines Associated with a Git Integration](codefreshClassic/pipelineGitIntegration.md)
