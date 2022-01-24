@@ -27,8 +27,8 @@ Personal notes I have written down and starting to add here. Getting into a habb
 
 ## Homebrew
 
-- [Brewfile Cleanup](git/removeCommitHistory.md)
-- [Setup Homebrew on M1 Mac](git/removeLocalBranches.md)
+- [Brewfile Cleanup](homebrew/cleanup.md)
+- [Setup Homebrew on M1 Mac](homebrew/setup.md)
 
 ## Kubernetes
 
