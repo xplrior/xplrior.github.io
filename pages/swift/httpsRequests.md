@@ -4,8 +4,6 @@ layout: default
 
 # Make HTTPS Requests and Parse JSON
 
-Data is taken from [13-Clima](https://github.com/xplrior/iosCourse/tree/main/13-Clima) project.
-
 First, make a struct that represents the JSON and the Keys you need. The first one is the main items and make additional structs for nested items. Then reference those structs in the main struct. You don't need all items in the JSON, only the ones you want.
 
 ```swift
