@@ -35,27 +35,23 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 tap "mongodb/brew"
-brew "argo"
-brew "argocd"
 brew "awscli"
 brew "git"
 brew "helm"
 brew "jq"
+brew "python"
 brew "mas"
 brew "codefresh-io/cli/codefresh"
 cask "aws-vpn-client"
 cask "docker"
-cask "google-chrome"
 cask "gpg-suite"
 cask "mongodb-compass"
-cask "sf-symbols"
 cask "visual-studio-code"
 cask "zoom"
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Slack", id: 803453959
-mas "Xcode", id: 497799835
 ```
 
 ---

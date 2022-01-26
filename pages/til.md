@@ -30,13 +30,13 @@ Personal notes I have written down and starting to add here. Getting into a habb
 - [Brewfile Cleanup](homebrew/cleanup.md)
 - [Setup Homebrew on M1 Mac](homebrew/setup.md)
 
+## Python
+
+- TBD
+
 ## Kubernetes
 
 - [Kubectl Commands](k8s/commands.md)
-
-## Swift
-
-- [Make HTTPS Requests and Parse JSON](swift/httpsRequests.md)
 
 ## Other
 
